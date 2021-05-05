@@ -3,8 +3,8 @@ import React from "react";
 function Contact() {
   return (
     <div>
-      <footer class="jumbotron jumbotron-fluid">
-      <div class="container">
+      <footer className="jumbotron jumbotron-fluid" style={{ backgroundColor: "#ff3300" }}>
+      <div className="container">
         <h1 id="contact-me" h1 class="display-4">Contact Me</h1>
         <ul class="nav justify-content-end">
           <li class="nav-item">

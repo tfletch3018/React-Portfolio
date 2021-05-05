@@ -1,6 +1,6 @@
 .footer {
   min-height: 100px;
-  background:  #cc99ff;
+  background-image: url("../../images/background.png");
   position: relative;
 }
 
@@ -10,10 +10,10 @@
   left: 0;
   right: 0;
   padding: 3px;
-  background: #B8B8B8;
+  background-image: url("../../images/background.png");
 }
 
 .container {
-  background-color: #99ccff;
+  background-image: url("../../images/background2.png");
 }
 
