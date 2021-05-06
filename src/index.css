@@ -47,6 +47,11 @@ code {
   border-radius: 5px;
 }
 
+.card-sixth {
+  background-image: url("./images/project6.jpg");
+  border-radius: 5px;
+}
+
 .nav-link {
     color: var(--orchid);
     text-shadow: 2px 2px var(--blackorchid);
