@@ -57,13 +57,13 @@ At a minimum, your portfolio should include the following:
 ```
 ## Usage
 
+<img src="src\images\demo.gif" />
+
 <img src="src\images\Screenshot.png" />
 
 <img src="src\images\Screenshot2.png" />
 
 <img src="src\images\Screenshot3.png" />
-
-<img src="" />
 
 ## License
 MIT License
@@ -93,10 +93,11 @@ SOFTWARE.
 
 ### Updated LinkedIn Profile 
 Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
+[Linkedin](http://linkedin.com/in/tonya-fletcher-733a9450)
 
 ## Features
-[My repo]()
+[My repo](https://github.com/tfletch3018/React-Portfolio)
 
 [Deployed on Github-Pages]()
 
-[Watch the demo!]()
+[Watch the demo!](https://drive.google.com/file/d/1Xow-bGQVld0Y-7MhHnEhz5bSWOg5wL7Z/preview)
