@@ -3,6 +3,7 @@ import React from "react";
 function Projects() {
   return (
     <div>
+      <h2>Projects</h2>
       <div className="col-sm-12">
         <div className="card-first" >
           <div class="card-header">
