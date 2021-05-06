@@ -6,9 +6,8 @@ import "./style.css";
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg">
-      <Link className="navbar-brand" to="/">
-        Tonya Fletcher
-      </Link>
+       <h1>Tonya Fletcher</h1>
+      
       <div>
         <ul className="navbar-nav">
           <li className="nav-item">
@@ -38,6 +37,7 @@ function Navbar() {
             >
               Contact Me
             </Link>
+           
           </li>
         </ul>
       </div>

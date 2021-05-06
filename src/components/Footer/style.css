@@ -17,3 +17,8 @@
   background-image: url("../../images/background2.png");
 }
 
+span {
+  color: var(--pale);
+  text-shadow: 2px 2px var(--smoke);
+}
+

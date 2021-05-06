@@ -4,7 +4,7 @@ import profileImage from "../images/profileImage.jpg";
 function Home() {
   return (
     <div>
-    Name  <div className="media">
+    <div className="media">
       <div className="media-left">
         <img src={profileImage} className="media-object img-thumbnail"  alt="" />
       </div>
@@ -12,7 +12,7 @@ function Home() {
         <div>
           
         </div>
-        <div>I am a former service and hospitality industry professional and manager excited about my entry into the field
+        <div className="about">I am a former service and hospitality industry professional and manager excited about my entry into the field
           of web development. I am currently a student enrolled in an online coding bootcamp hosted by the University of
           Pennsylvania. I live in Philadelphia, PA, where I have resided since graduating from Temple University some
           time ago. After being laid off as a result of COVID19 in 2020, I quickly realized that the world was changing
