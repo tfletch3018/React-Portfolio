@@ -98,6 +98,6 @@ Make sure to update your LinkedIn Profile with the new skills you've acquired si
 ## Features
 [My repo](https://github.com/tfletch3018/React-Portfolio)
 
-[Deployed on Github-Pages]()
+[Deployed on Github-Pages](https://tfletch3018.github.io/React-Portfolio/#/)
 
 [Watch the demo!](https://drive.google.com/file/d/1Xow-bGQVld0Y-7MhHnEhz5bSWOg5wL7Z/preview)
