@@ -6,11 +6,10 @@ import Col from "../components/Col";
 function Projects() {
   return (
     <div>
-
+<h1 class="text-center">Projects</h1>
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h1>Projects</h1>
           </Col>
         </Row>
         <Row>
