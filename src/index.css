@@ -113,12 +113,19 @@ padding: 0px 0px 0px 70px;
   padding: 0.375rem .75rem;
 }
 
-
 .btn-project:hover {
       color: var(--orchid);
       background-image: url("./images/background2.png");
       box-shadow: inset 0px 0px 8px var(--smoke), 0 0 15px var(--orchid);
   }
 
-  
+  .links {
+    color: var(--orchid);
+    text-shadow: 1px 1px var(--pale);
+  }
 
+  .links:hover {
+    color: var(--mint);
+    text-shadow: 1px 1px var(--pale);
+
+  }
