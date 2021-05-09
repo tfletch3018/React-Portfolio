@@ -109,6 +109,7 @@ padding: 0px 0px 0px 70px;
   background-image: url("./images/background3.png");
   color: var(--smoke);
   text-shadow: 1px 1px var(--pale);
+  box-shadow: inset 0px 0px 8px var(--smoke), 0 0 15px var(--orchid);
   padding: 0.375rem .75rem;
 }
 
