@@ -55,9 +55,9 @@ function Projects() {
                 <a href="https://github.com/tfletch3018/Project-2" class="btn-project">Github repo</a>
                 <a href="http://sleepy-headland-27879.herokuapp.com/" class="btn-project">Deployed application</a>
                 <footer class="blockquote-footer">
-                  <figcaption class="text-center">Photo by
-                <a href="https://unsplash.com/@iswanto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Iswanto Arif</a> on
-                <a href="/t/textures-patterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+                  <figcaption class="text-center">Photo by 
+                  <a href="https://unsplash.com/@t_lipke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Thomas Lipke</a> on 
+                  <a href="https://unsplash.com/s/photos/red?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
                   </figcaption>
                 </footer>
               </div>
@@ -85,9 +85,9 @@ function Projects() {
                 <a href="https://github.com/tfletch3018/Weather-Dashboard" class="btn-project">Github repo</a>
                 <a href="https://tfletch3018.github.io/Weather-Dashboard/" class="btn-project">Deployed application</a>
                 <footer class="blockquote-footer">
-                  <figcaption class="text-center">Photo by
-                      <a href="https://unsplash.com/@jeisblack?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jason Blackeye</a> on
-                      <a href="/t/nature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+                   <figcaption class="text-center">Photo by 
+                   <a href="https://unsplash.com/@ej1209_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">EJ Li</a> on 
+                   <a href="https://unsplash.com/s/photos/orchids?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
                   </figcaption>
                 </footer>
               </div>
