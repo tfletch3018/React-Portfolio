@@ -80,10 +80,10 @@ function Projects() {
 
             <div className="card-fifth">
               <div className="card-body">
-                <h5 className="card-title">Weather Dashboard</h5>
+                <h5 className="card-title">The Employee Directory</h5>
                 <p className="card-text">JavaScript/ CSS/ HTML</p>
-                <a href="https://github.com/tfletch3018/Weather-Dashboard" className="btn-project">Github repo</a>
-                <a href="https://tfletch3018.github.io/Weather-Dashboard/" className="btn-project">Deployed application</a>
+                <a href="https://github.com/tfletch3018/the-employee-directory" className="btn-project">Github repo</a>
+                <a href="https://tfletch3018.github.io/the-employee-directory/" className="btn-project">Deployed application</a>
                 <footer className="blockquote-footer">
                    <figcaption className="text-center">Photo by 
                    <a className="links" href="https://unsplash.com/@ej1209_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">EJ Li</a> on 
