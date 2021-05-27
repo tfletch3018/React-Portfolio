@@ -50,10 +50,10 @@ function Projects() {
 
             <div className="card-third">
               <div className="card-body">
-                <h5 className="card-title">Project 2: Groupie</h5>
-                <p className="card-text">CSS/ JavaScript/ Handlebars/ HTML</p>
-                <a href="https://github.com/tfletch3018/Project-2" className="btn-project">Github repo</a>
-                <a href="http://sleepy-headland-27879.herokuapp.com/" className="btn-project">Deployed application</a>
+                <h5 className="card-title">Project 3: Neighborly</h5>
+                <p className="card-text">JavaScript/ CSS/ HTML</p>
+                <a href="https://github.com/tfletch3018/Neighborly" className="btn-project">Github repo</a>
+                <a href="https://intense-beyond-20958.herokuapp.com/" className="btn-project">Deployed application</a>
                 <footer className="blockquote-footer">
                   <figcaption className="text-center">Photo by 
                   <a className="links" href="https://unsplash.com/@t_lipke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Thomas Lipke</a> on 
