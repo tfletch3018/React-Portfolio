@@ -15,7 +15,7 @@ function Contact() {
           </li>
           <li className="nav-item">
             <a className="nav-link active"
-              href="https://drive.google.com/drive/folders/1-2qstDNd3kGVUXQ7ZOWa-Ry3Ft4kzCaR?usp=sharing">My Resume</a>
+              href="https://docs.google.com/document/d/1vUE13ooLReo4QMfpyI3ytMfZrIB0EfJgyynv_s7Lot4/edit?usp=sharing">My Resume</a>
           </li>
           <li className="nav-item">
             <a className="nav-link active" href="https://github.com/tfletch3018">Githhub</a>
