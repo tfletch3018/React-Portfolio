@@ -14,6 +14,7 @@ function Home() {
           </div>
           <div className="about">
             <h1 className="home">About Me</h1>
+            <br></br>
             <p className="about-me">
               I am a former hospitality and service industry professional with a background in Business Administration, and
               recent graduate of the Full-Stack Bootcamp hosted by the University of Pennsylvania. Effective at utilizing
@@ -30,6 +31,7 @@ function Home() {
 
           <div className="about">
             <h1 className="home">Skills/ Technologies</h1>
+            <br></br>
             <ul className="skills">HTML</ul>
             <ul className="skills">CSS</ul>
             <ul className="skills">JavaScript</ul>
