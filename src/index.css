@@ -65,7 +65,6 @@ code {
     text-shadow: 2px 2px var(--blackorchid);
     background-image: url("./images/background.png");
     box-shadow: inset 0px 0px 8px var(--smoke), 0 0 15px var(--orchid);
-
 }
 
 h1 {
@@ -90,6 +89,7 @@ h4 {
 .media-body {
 padding: 0px 0px 0px 70px;
 }
+
 .container-fluid-work {
   width: 100%;
   padding-right: 29px;
@@ -117,15 +117,27 @@ padding: 0px 0px 0px 70px;
       color: var(--orchid);
       background-image: url("./images/background2.png");
       box-shadow: inset 0px 0px 8px var(--smoke), 0 0 15px var(--orchid);
-  }
+}
 
-  .links {
+.links {
     color: var(--orchid);
     text-shadow: 1px 1px var(--pale);
-  }
+}
 
-  .links:hover {
+.links:hover {
     color: var(--mint);
     text-shadow: 1px 1px var(--pale);
+}
 
-  }
+.home {
+  font-size: 22px;
+  color: var(--mint);
+  text-shadow: 3px 3px var(--smoke);
+}
+
+.skills {
+  display: inline;
+  color: var(--pale);
+  text-shadow: 2px 2px var(--smoke);
+  font-size: 20px;
+}
