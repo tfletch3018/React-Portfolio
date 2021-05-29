@@ -11,9 +11,11 @@ function Home() {
 
         <Col size="md-12">
           <h1 className="home">About Me</h1>
-          <img src={profileImage} className="media-object img-thumbnail" alt="profile-pic" />
+          <div className="home">
+            <img src={profileImage} className="media-object img-thumbnail" alt="profile-pic" />
+          </div>
         </Col>
-        
+
         <Row>
           <p className="about">
             I am a former hospitality and service industry professional with a background in Business Administration, and
@@ -27,8 +29,9 @@ function Home() {
             attempting to crack some code, I am probably taking a run, trying out a new recipe in the kitchen, or just
             hanging around with my two cats Lynx and Malley.
            </p>
-
-          <h1 className="home">Skills/ Technologies</h1>
+          <div className="home">
+            <h1 className="home">Skills/ Technologies</h1>
+          </div>
           <div className="skills">
             <ul className="skills">HTML</ul>
             <ul className="skills">CSS</ul>
