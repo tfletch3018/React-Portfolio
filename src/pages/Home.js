@@ -11,9 +11,10 @@ function Home() {
 
         <Col size="md-12">
           <h1 className="home">About Me</h1>
-          <div className="home">
-            <img src={profileImage} className="media-object img-thumbnail" alt="profile-pic" />
-          </div>
+        </Col>
+        <Col size="md-12">
+          <img src={profileImage} className="media-object img-thumbnail" alt="profile-pic" />
+
         </Col>
 
         <Row>
@@ -29,10 +30,9 @@ function Home() {
             attempting to crack some code, I am probably taking a run, trying out a new recipe in the kitchen, or just
             hanging around with my two cats Lynx and Malley.
            </p>
-          <div className="home">
-            <h1 className="home">Skills/ Technologies</h1>
-          </div>
+
           <div className="skills">
+            <h1 className="home">Skills/ Technologies</h1>
             <ul className="skills">HTML</ul>
             <ul className="skills">CSS</ul>
             <ul className="skills">JavaScript</ul>
@@ -48,7 +48,6 @@ function Home() {
           </div>
         </Row>
       </Row>
-
     </Container>
     // <div>
     //   <div className="media">
