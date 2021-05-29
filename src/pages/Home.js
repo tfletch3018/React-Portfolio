@@ -10,7 +10,7 @@ function Home() {
       <Row>
 
         <Col size="md-12">
-          <h1 className="home">About Me</h1>
+          <h3 className="">About Me</h3>
         </Col>
         <Col size="md-12">
           <img src={profileImage} className="media-object img-thumbnail" alt="profile-pic" />
@@ -32,7 +32,7 @@ function Home() {
            </p>
 
           <div className="skills">
-            <h1 className="home">Skills/ Technologies</h1>
+            <h3 className="">Skills/ Technologies</h3>
             <ul className="skills">HTML</ul>
             <ul className="skills">CSS</ul>
             <ul className="skills">JavaScript</ul>
