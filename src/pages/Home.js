@@ -3,20 +3,20 @@ import profileImage from "../images/profileImage.jpg";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import background from "../images/background.png";
 
 function Home() {
   return (
-    <Container fluid>
-      <Row>
 
+    <Container fluid style={{ backgroundImage: `url(${background})` }}>
+      <Row>
         <Col size="md-12">
           <h3 className="">About Me</h3>
         </Col>
         <Col size="md-12">
           <img src={profileImage} className="media-object img-thumbnail" alt="profile-pic" />
-
         </Col>
-
+        
         <Row>
           <p className="about">
             I am a former hospitality and service industry professional with a background in Business Administration, and
