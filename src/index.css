@@ -141,3 +141,6 @@ padding: 0px 0px 0px 70px;
   text-shadow: 2px 2px var(--smoke);
   font-size: 20px;
 }
+.row-about {
+  background-image: url("./images/background.png");
+}
