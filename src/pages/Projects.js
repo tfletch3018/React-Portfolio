@@ -21,8 +21,8 @@ function Projects() {
               <div className="card-body">
                 <blockquote className="blockquote mb-0">
                   <p>(babysittr)</p>
-                  <a href="https://github.com/tfletch3018/project-1" className="btn-project" alt="" >Github repo</a>
-                  <a href="https://polysnacktyl.github.io/project-1/" className="btn-project" alt="" >Deployed application</a>
+                  <a href="https://github.com/tfletch3018/babysittr" className="btn-project" alt="" >Github repo</a>
+                  <a href="https://tfletch3018.github.io/babysittr/" className="btn-project" alt="" >Deployed application</a>
                   <footer className="blockquote-footer">
                     <figcaption className="text-center">Photo by
                 <a className="links" href="https://unsplash.com/@picsbyjameslee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" alt="" >James Lee</a> on
